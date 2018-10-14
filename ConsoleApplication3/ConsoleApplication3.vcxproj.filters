@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\Exercices">
+      <UniqueIdentifier>{a3726416-a7dd-4311-8c14-ae28bad83805}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice1.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice2.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice3.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice4.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice5.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice6.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice7.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice8.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice9.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice10.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice11.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice12.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice13.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice14.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice15.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice16.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice17.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice18.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice19.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice20.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice21.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice22.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice23.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice24.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice25.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice26.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice27.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice28.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice29.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+    <ClCompile Include="exercice30.c">
+      <Filter>Fichiers sources\Exercices</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exercices.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

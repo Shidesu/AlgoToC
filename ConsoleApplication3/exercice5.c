@@ -4,7 +4,7 @@
 
 void exercice5()
 {
-	char *message = NULL;
+	char* message = NULL;
 	int size = 0;
 
 	printf("Entrez un nombre :\n");
@@ -12,18 +12,16 @@ void exercice5()
 
 	message = malloc(sizeof(char) * size + 1);
 
-	for(int i = 0; i < size; i++)
+	for (int i = 0; i < size; i++)
 	{
 		*message = *"";
 
-		for(int j = 0; j < size; j++)
+		for (int j = 0; j < size; j++)
 		{
 			strcat(message, "X");
 		}
 
 		printf("%s\n", message);
-
-		free(message);
-
 	}
+	free(message);
 }

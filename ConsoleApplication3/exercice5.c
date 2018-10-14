@@ -12,15 +12,15 @@ void exercice5()
 
 	message = malloc(sizeof(char) * size + 1);
 
+	*message = *"";
+
 	for (int i = 0; i < size; i++)
 	{
-		*message = *"";
+		strcat(message, "X");
+	}
 
-		for (int j = 0; j < size; j++)
-		{
-			strcat(message, "X");
-		}
-
+	for (int j = 0; j < size; j++)
+	{
 		printf("%s\n", message);
 	}
 	free(message);

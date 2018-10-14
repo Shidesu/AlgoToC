@@ -1,0 +1,5 @@
+# Pour en savoir plus sur .editorconfig voir https://aka.ms/editorconfigdocs
+
+# All files
+[*]
+charset = cp858
